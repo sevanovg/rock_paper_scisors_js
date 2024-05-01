@@ -1,0 +1,1 @@
+Educational toy project for JS: Rock, Paper Scisors
